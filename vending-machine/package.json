@@ -1,0 +1,28 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "This is Priyams app",
+  "main": "change.js",
+  "dependencies": {
+    "live-server": "^1.1.0"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jsdoc": "^3.4.0",
+    "qunit-tap": "^1.5.1",
+    "qunitjs": "^2.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttsJavaScriptAppDevelopmentSummer16/always_write_tests_PS.git"
+  },
+  "author": "priyam.sarma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttsJavaScriptAppDevelopmentSummer16/always_write_tests_PS/issues"
+  },
+  "homepage": "https://github.com/ttsJavaScriptAppDevelopmentSummer16/always_write_tests_PS#readme"
+}
